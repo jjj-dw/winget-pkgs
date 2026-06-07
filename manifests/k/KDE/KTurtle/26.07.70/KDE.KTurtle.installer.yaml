@@ -9,14 +9,14 @@ ProductCode: kturtle
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1128-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: A69B6FD9487EDA1E76E18AE34ADBE4FA2401F422161EEE5E1D962FFC350FC1B6
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1144-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: FC7C3014C3FB35E7E54ADC2DAC3E2B527D91141091AF2F88A0E8AAC1366F7800
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1128-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: A69B6FD9487EDA1E76E18AE34ADBE4FA2401F422161EEE5E1D962FFC350FC1B6
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1144-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: FC7C3014C3FB35E7E54ADC2DAC3E2B527D91141091AF2F88A0E8AAC1366F7800
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer

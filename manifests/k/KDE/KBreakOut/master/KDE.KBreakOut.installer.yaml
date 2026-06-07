@@ -9,14 +9,14 @@ ProductCode: kbreakout
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbreakout/master/windows/kbreakout-master-842-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: DBF6244CD31F7694CDF8691B6834A5116E92278899DFBF27FBB54E82D908B602
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbreakout/master/windows/kbreakout-master-859-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 119555ADDA218B6C0E89103C3E8A94605F8450AA18CD3F7886B0F40EAAFBCB1C
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbreakout/master/windows/kbreakout-master-842-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: DBF6244CD31F7694CDF8691B6834A5116E92278899DFBF27FBB54E82D908B602
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbreakout/master/windows/kbreakout-master-859-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 119555ADDA218B6C0E89103C3E8A94605F8450AA18CD3F7886B0F40EAAFBCB1C
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer

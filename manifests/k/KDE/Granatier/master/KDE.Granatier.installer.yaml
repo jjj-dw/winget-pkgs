@@ -9,14 +9,14 @@ ProductCode: granatier
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/granatier/master/windows/granatier-master-885-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: AED1076DFD1F6AA11FCA41E105991AB8A7027D04C8617145EE6273568E22972A
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/granatier/master/windows/granatier-master-903-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: CCAB57F136DED761765D4201808FFFC2AF5A9512A67503CE655444EF17392A30
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/granatier/master/windows/granatier-master-885-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: AED1076DFD1F6AA11FCA41E105991AB8A7027D04C8617145EE6273568E22972A
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/granatier/master/windows/granatier-master-903-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: CCAB57F136DED761765D4201808FFFC2AF5A9512A67503CE655444EF17392A30
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
